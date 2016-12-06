@@ -1,0 +1,23 @@
+﻿<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>images/mainbk.jpg</file>
+        <file>images/author.jpg</file>
+        <file>images/desktop.png</file>
+        <file>images/mobile.png</file>
+        <file>images/net_pretext.png</file>
+        <file>images/net_repair.png</file>
+        <file>images/net_speed.png</file>
+        <file>LabelBtn.qml</file>
+        <file>Header.qml</file>
+        <file>FirstPage.qml</file>
+        <file>PageWidget.qml</file>
+        <file>QMLControl.qml</file>
+        <file>myModels.qml</file>
+        <file>DBConnect.js</file>
+        <file>NBAGames.qml</file>
+        <file>NBAGamesDelegate.qml</file>
+        <file>NavgationDelegate.qml</file>
+        <file>MultiDelegate.qml</file>
+    </qresource>
+</RCC>
